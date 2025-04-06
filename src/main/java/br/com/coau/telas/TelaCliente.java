@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JInternalFrame.java to edit this template
- */
+
 package br.com.coau.telas;
 
 import br.com.coau.persistence.Cliente;
@@ -11,17 +8,12 @@ import java.util.List;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Warley
- */
+
 public class TelaCliente extends javax.swing.JInternalFrame {
 
     private TelaAlugarLivro telaAlugarLivro;
 
-    /**
-     * Creates new form TelaCliente
-     */
+   
     public TelaCliente() {
         initComponents();
         listarTabela();
