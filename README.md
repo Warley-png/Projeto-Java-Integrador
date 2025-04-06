@@ -5,18 +5,18 @@ O programa faz o CRUD para o dono ter total controle de livros adiconados e livr
 ## Status do Projeto
 - Em desenvolvimento
 ## Tecnologias Utilizadas
- -**Java**: Linguagem de programação principal.
+-**Java**: Linguagem de programação principal.
 - **Hibernate**: Para mapeamento objeto-relacional (ORM).
 - **MySQL**: Banco de dados utilizado para armazenamento de dados.
 
 
   ## Desenvolvedores
-  - Warley
+  -**Warley**
   ## Objetivo do software
     Este sistema está sendo desenvolvido para facilitar o gerenciamento de um acervo de livros no qual o dono quer ter controle dos livros que ele ja tem no seu acervo
     e os livros que ele empresta para outras pessoas.
   ## Funcionalidades do sistema
-  **Cadastro de Livros**: Para adicionar novos livros ao sistema com informações como título, autor, editora, etc.
+-**Cadastro de Livros**: Para adicionar novos livros ao sistema com informações como título, autor, editora, etc.
 - **Empréstimo de Livros**: Funcionalidade para registrar o empréstimo de livros para usuários.
 - **Devolução de Livros**: Permite registrar a devolução de livros emprestados.
 - **Consulta de Livros**: Usuários podem buscar livros disponíveis no sistema.
